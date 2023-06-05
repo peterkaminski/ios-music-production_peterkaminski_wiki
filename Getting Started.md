@@ -16,14 +16,14 @@ You could actually skip a DAW altogether and start with one of the sequencers / 
 
 There are sort of two kinds, the ones that have a grid and you put notes on the grid, in a few different tracks; or, there are the kind that algorithmically generate sequences, or have some really cool interface that you can only get on a computer or mobile device. Pick your poison. 🙂
 
-If you have a simple MIDI keyboard (Korg nanoKey, Akai MPK Mini mkII, M-Audio Keystation) connected to your iOS device via USB or Bluetooth, you might like a "step sequencer", which allows you to enter notes on your MIDI keyboard one at a time, moving to the next step in the grid every time you press a key. This records the notes one by one, but not the timing or the performance. (A DAW will generally record a MIDI performance onto a grid -- and you'll do that someday -- but it can be overwhelming to start there.)
+If you have a simple MIDI keyboard (Korg nanoKey, Akai MPK Mini mkII, M-Audio Keystation) connected to your iOS device via USB or Bluetooth, you might like a "step sequencer", which allows you to enter notes on your MIDI keyboard one at a time, moving to the next step in the grid every time you press a key. This records the notes one by one, but not the timing or the performance. (A DAW will generally record a MIDI performance in real time onto a grid -- and you'll do that someday -- but it can be completely overwhelming to start there.)
 
 Some step sequencer advice from the web:
 
 - [Step sequencer advice: Thesys, Midisteps, Mididreams, Mker, Steppolyarp](https://forum.audiob.us/discussion/53481/step-sequencer-advice-thesys-midisteps-mididreams-mker-steppolyarp)
 - [Are there any iOS step sequencers](https://forum.audiob.us/discussion/44046/are-there-any-ios-step-sequencers)
 
-Also, pick a few synthesizers / sample players, that probably won't have a performance grid, but that are fun to play with. Some of my faves:
+Also, pick a few synthesizers / sample players, that probably won't have a performance grid, but that are fun to play with to make musical sounds. Some of my faves (obviously, start with 1-3, not all, lol):
 
 - lots of synths from Gadget
 - Addictive Pro (and any thing from VirSyn)
@@ -39,3 +39,5 @@ Also, pick a few synthesizers / sample players, that probably won't have a perfo
 A special treat is GeoShred, which is a super cool instrument interface, but which also has the great physically modeled GeoSWAM instruments.  (Which reminds me, we'll have to get into MPE at some point, but not for starters.)
 
 YouTube is a _great_ place to learn more. Check out some of the [[YouTubers]].
+
+P.S. This is not about music, but: if you're buying an iPad, get one that will work well with an Apple Pencil 2, then get Procreate and watch Procreate how-to and tutorial videos on YouTube. Along with iOS music production, it is another amazingly powerful, wonderful, relatively inexpensive creative experience that I wish everybody could enjoy.
