@@ -4,6 +4,7 @@
 
 ## Important Pages
 
+[[Getting Started]]  
 [[Types of Apps]]  
 [[YouTubers]]  
 
