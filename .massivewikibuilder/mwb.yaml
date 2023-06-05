@@ -12,3 +12,6 @@ license: '<a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons
 
 # the markdown page which will be handled as a sidebar page
 sidebar: Sidebar.md
+
+# number of pages in Recent Changes
+recent_changes_count: 10
