@@ -11,4 +11,5 @@
 
 [Search](/search.html)  
 [All Pages](/all-pages.html)  
-[Recent Changes](/recent-pages.html)
+[Recent Changes](/recent-pages.html)  
+[[What's New]]  
