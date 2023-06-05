@@ -6,7 +6,7 @@ But for now, say you're a little familiar with music, and you want to make some 
 
 You might think you want a DAW (see [[Types of Apps]]), and that's not a bad place to start. The easier DAWs to start with might be Korg Gadget 2 or Beatmaker 3. They are both wonderful; I think for a beginner getting used to DAWs, I'd pick Gadget.
 
-(My personal go-to pro DAW, after getting used to Gadget, is Cubasis 3, which works with my desktop DAW, Cubase. Other folks might also use GarageBand or Logic Pro, which is now available for iOS, or any of another of good iOS apps.)
+(My personal go-to pro DAW, after getting used to Gadget, is Cubasis 3, which works with my desktop DAW, Cubase. Other folks might also use GarageBand or Logic Pro, which is now available for iOS, or any of a number of good iOS apps.)
 
 For more about DAWs, Jakob Haq has this great overview: [My Top iOS DAW and Music Production Apps](https://www.youtube.com/watch?v=b1inq9I8HgU) (YouTube)
 
